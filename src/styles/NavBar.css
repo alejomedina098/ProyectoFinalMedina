@@ -1,0 +1,17 @@
+.logo-text {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: rgb(168, 165, 165);
+}
+
+.nav-link-logo {
+    text-decoration: none;
+}
+
+.nav-link {
+    position: relative;
+}
+
+.menu {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,19 @@
+.logo-carrito {
+    font-size: 2rem;
+    color: white;
+}
+
+.carrito {
+    position: relative;
+    color: white;
+}
+
+.link-style {
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .carrito {
+        justify-content: center;
+    }
+}
